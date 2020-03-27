@@ -1,0 +1,6 @@
+hi brother branch1
+<<<<<<< HEAD
+hi brother master
+=======
+hi brother branch11
+>>>>>>> branch1
